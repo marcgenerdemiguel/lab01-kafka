@@ -1,4 +1,6 @@
 
+# Strimzi Kafka Operator
+
 1.  start strimzi kafka operator
 2.  start kafka cluster: kubectl apply -f ./strimzi/my-cluster-kafka.yaml
 3.  create kafka topic: kubectl apply -f ./strimzi/numbers-topic.yaml
