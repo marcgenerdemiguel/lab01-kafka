@@ -9,7 +9,7 @@
 
 Retrieve the bootstrap address you can use to access the Kafka cluster:
 
-kubectl get kafka my-cluster -o=jsonpath='{.status.listeners[?(@.type=="external")].bootstrapServers}{"\n"}'
+* kubectl get kafka my-cluster -o=jsonpath='{.status.listeners[?(@.type=="external")].bootstrapServers}{"\n"}'
 
 start external app kafka producer:
 
