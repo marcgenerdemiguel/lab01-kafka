@@ -1,7 +1,9 @@
 
 # Strimzi Kafka Operator
 
-1.  start strimzi kafka operator
+Strimzi provides a way to run an Apache Kafka cluster on Kubernetes. https://strimzi.io/
+
+1.  deploy strimzi kafka operator: https://strimzi.io/blog/2018/11/01/using-helm/
 2.  start kafka cluster: kubectl apply -f ./strimzi/my-cluster-kafka.yaml
 3.  create kafka topic: kubectl apply -f ./strimzi/numbers-topic.yaml
 
