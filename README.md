@@ -8,8 +8,7 @@ This laboratory show:
 
 ## Run Apache Kafka with docker-compose.
 
-* ./docker-compose up -d
-[GitHub](https://github.com/marcgenerdemiguel/lab01-kafka/blob/main/docker-compose.yml)
+* [./docker-compose up -d](https://github.com/marcgenerdemiguel/lab01-kafka/blob/main/docker-compose.yml)
 
 ## Build client images
 
