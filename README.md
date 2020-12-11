@@ -3,7 +3,7 @@
 This laboratory show:
 
 * run Apache Kafka with docker-compose.
-* run an Apache Kafka cluster on Kubernetes.
+* run an Apache Kafka cluster on Kubernetes.  [Strimzi](https://github.com/marcgenerdemiguel/lab01-kafka/blob/main/strimzi)
 * Producer and Consumer topics in Apache Kafka.
 
 ## Run Apache Kafka with docker-compose.
